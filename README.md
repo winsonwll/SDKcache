@@ -61,9 +61,9 @@
 ## 开发
 ### git管理
 * git仓库
-    * https://git.oschina.net/chenchenjoke/imooc.git
+    * https://github.com/winsonwll/SDKcache.git
 * 开发流程
-    * git clone https://git.oschina.net/chenchenjoke/imooc.git
+    * git clone https://github.com/winsonwll/SDKcache.git
     * npm install
     * grunt
     * npm start
